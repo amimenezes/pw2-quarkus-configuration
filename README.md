@@ -2,7 +2,7 @@
 
 ## Install:
 
-Mavem YAML configuration
+Maven YAML configuration
 ```
 ./mvnw quarkus:add-extension -Dextensions="quarkus-config-yaml"
 ```
