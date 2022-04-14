@@ -9,10 +9,12 @@ Maven YAML configuration
 
 ### Add in pom.xml
 
+```
 <dependency>
     <groupId>io.quarkus</groupId>
     <artifactId>quarkus-config-yaml</artifactId>
 </dependency>
+```
 
 ### Remove the src/main/resources/application.properties and create a src/main/resources/application.yaml file.
 
